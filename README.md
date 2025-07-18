@@ -65,7 +65,14 @@ Make sure you have the following before testing or replicating the setup:
 ## Logical Diagrams:
 
 <img width="1107" height="616" alt="image" src="https://github.com/user-attachments/assets/f3636e21-d336-4dc4-b897-f433914d820e" />
- 
+
+ ## Screenshots
+<img width="412" height="835" alt="image" src="https://github.com/user-attachments/assets/2b98fe4e-e403-4da1-b1d1-00d292e16280" />
+<img width="536" height="566" alt="image" src="https://github.com/user-attachments/assets/781d9277-952d-4d31-b570-cf3f56ee7cc7" />
+
+<img width="532" height="156" alt="image" src="https://github.com/user-attachments/assets/deef652e-f439-4e8f-b576-4e1bfef91af5" /> 
+
+
  
 ## Configuration Samples:
 ```markdown
