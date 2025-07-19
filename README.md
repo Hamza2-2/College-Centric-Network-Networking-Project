@@ -1,7 +1,4 @@
-# College-Centric-Network-Networking-Project
-
-```markdown
-# College-Centric Network Project – Bahria University 🏫🔗
+# College-Centric-Network-Networking-Project– Bahria University 🔗
 
 ## Overview
 This project demonstrates the design and implementation of a scalable, secure, and efficient college-centric network. Engineered for Bahria University's Islamabad Campus, the network integrates RIP and EIGRP routing protocols, route redistribution, DHCP, and DNS services to optimize connectivity across multiple departments. Additionally, a web server provides access to LMS/CMS resources via HTTP and HTML/CSS interfaces.
